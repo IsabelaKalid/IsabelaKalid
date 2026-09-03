@@ -19,8 +19,7 @@ End-to-end sales analysis using **SQL, Python/Pandas, and Power BI**, covering d
 
 **Tech:** SQL • Python • Pandas • Power BI
 
-[View Project](https://github.com/IsabelaKalid/ecommerce-sales-analytic
-s)
+[View Project](https://github.com/IsabelaKalid/ecommerce-sales-analytics)
 
 ---
 ### 🤖 SAP Invoice Reconciliation AI
