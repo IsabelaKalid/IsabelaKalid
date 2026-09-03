@@ -8,7 +8,7 @@
 
 I'm a Data Analysis student focused on transforming data into actionable business insights.
 
-I work with **Python, SQL, Pandas, Power BI, and automation**, developing projects involving data analysis, dashboards, ETL processes, web scraping, and business process automation.
+I work with **Python, SQL, Pandas, Power BI, automation, and AI-assisted development**, developing projects involving data analysis, dashboards, ETL processes, web scraping, intelligent automation, and AI-powered solutions.
 
 Currently, I'm strengthening my skills in **Data Analytics and Business Intelligence** through practical projects.
 
@@ -19,10 +19,10 @@ End-to-end sales analysis using **SQL, Python/Pandas, and Power BI**, covering d
 
 **Tech:** SQL • Python • Pandas • Power BI
 
-[View Project](https://github.com/IsabelaKalid/ecommerce-sales-analytics)
+[View Project](https://github.com/IsabelaKalid/ecommerce-sales-analytic
+s)
 
 ---
-
 ### 🤖 SAP Invoice Reconciliation AI
 Automated accounting reconciliation solution that matches SAP import process IDs using fuzzy matching and Azure OpenAI LLM.
 
@@ -46,6 +46,9 @@ Python • Pandas • SQL • Power BI • Excel
 
 **Data Engineering & Automation**  
 Databricks • PySpark • Selenium • RPA • ETL
+
+**AI & Intelligent Automation**  
+Generative AI • LLM Integration • AI-Assisted Development • Azure OpenAI
 
 **Tools**  
 Git • GitHub • VS Code • Figma
