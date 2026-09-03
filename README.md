@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gif_github.gif" width="50%">
+  <img src="baixados.gif" width="50%">
 </p>
 
 # Hi, I'm Isabela 👋
