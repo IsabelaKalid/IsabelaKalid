@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="gif_github.gif" width="100%">
+</p>
+
 # Hi, I'm Isabela 👋
 
 ### Data Analyst | Python • SQL • Power BI • Data Automation
