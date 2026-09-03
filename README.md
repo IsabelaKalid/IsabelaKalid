@@ -34,3 +34,14 @@ Web scraping and data extraction project for Amazon Brazil best-sellers, includi
 **Tech:** Python • Selenium • Pandas • Matplotlib
 
 [View Project](https://github.com/IsabelaKalid/scraper_bestsellers_amazon)
+
+## 🛠️ Tech Stack
+
+**Data Analysis & BI**  
+Python • Pandas • SQL • Power BI • Excel
+
+**Data Engineering & Automation**  
+Databricks • PySpark • Selenium • RPA • ETL
+
+**Tools**  
+Git • GitHub • VS Code • Figma
